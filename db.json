@@ -208,6 +208,17 @@
       "status": "Active",
       "userTypeId": 1,
       "id": 22
+    },
+    {
+      "FirstName": "uttam",
+      "LastName": "uttamm",
+      "Email": "uttam@abc.com",
+      "Mobile": "9988776655",
+      "Password": "12345678",
+      "ConfirmPassword": "12345678",
+      "userTypeId": 0,
+      "status": "Active",
+      "id": 23
     }
   ],
   "postalCode": [
